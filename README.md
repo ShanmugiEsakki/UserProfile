@@ -42,3 +42,8 @@ Open your browser and navigate to http://localhost:3000 to view the portfolio.
 
 **Contributing**
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please feel free to open an issue or submit a pull request.
+
+![Screenshot (1562)](https://github.com/ShanmugiEsakki/UserProfile/assets/151704341/1c37e367-2202-4e33-8975-efbcddb4ef10)
+
+![Screenshot (1563)](https://github.com/ShanmugiEsakki/UserProfile/assets/151704341/deb0021f-77b9-4219-a3dd-10559525ed67)
+
