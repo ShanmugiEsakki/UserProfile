@@ -1,6 +1,6 @@
 # Personal Portfolio Website in React
 
-<img width="1266" alt="HomePage" src=""C:\Users\User\Pictures\Screenshots\Screenshot (1561).png"">
+![Screenshot (1561)](https://github.com/ShanmugiEsakki/UserProfile/assets/151704341/9de467f5-edce-40af-aed2-af82f931cf99)
 
 Built using:
 
